@@ -1,15 +1,2 @@
-Welcome to your new dbt project!
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+# A Demonstration Project
+This is a project demonstrating my ability in dbt. To be fleshed out further, once I settle on what data to use in it, and as I push changes from my local machine. Since I have no more Google cloud credits, I will be running it in batch mode, so that I don't get charged for continuous processing.
